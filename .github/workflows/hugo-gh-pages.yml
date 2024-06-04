@@ -6,6 +6,8 @@ on:
   pull_request:
     types:
       - closed
+  push:
+    branches: [$default-branch]
   # Allows you to run this workflow manually
   workflow_dispatch:
 
@@ -25,7 +27,7 @@ jobs:
   # Build job
   build:
     # Check if pr is merged and the branch is tthe default one
-    if: github.event.pull_request.merged && github.ref == github.event.repository.default_branch
+    if: github.ref == github.event.repository.default_branch
     runs-on: ubuntu-latest
     steps:
       - name: Setup Hugo
