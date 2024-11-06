@@ -85,15 +85,22 @@ pygmentsCodefencesGuessSyntax = true
   #discord = "invite code (https://discord.gg/XXXXXXX)"
   #strava = "userid"
 
+[languages]
+  [languages.en] 
+    contentDir = "content/en" # English
+  [languages.es]
+    contentDir = "content/es" # Spanish
+
+
 [[menu.main]]
     name = "Blog"
     url = ""
     weight = 1
 
-[[menu.main]]
-    name = "About"
-    url = "page/about/"
-    weight = 3
+# [[menu.main]]
+#     name = "About"
+#     url = "page/about/"
+#     weight = 3
 
 # [[menu.main]]
 #     identifier = "samples"
