@@ -1,22 +1,22 @@
 +++
-title = 'Hello World'
+title = 'Hola Mundo'
 date = 2024-06-03T20:05:36-05:00
 draft = false
 +++
 
-Having a space you can call your own is really valuable. It is true both in real life, and online. We tend to forget that a lot, and with all the alternatives we have with social media is something that people just ignore completely. That's *one* of the reasons I have begun this site. A place to call my own.
+Tener un sitio que pueda decirse que es propio es algo realmente valioso. Es cierto tanto en la vida real como en línea. Tendemos a olvidar eso, y con todas las alternativas que ofrecen las redes sociales, se vuelve algo que tendemos a ignorar por completo. Esa es *una* de las razones por las que he empezado este sitio. Un lugar que pueda decir que es propio. 
 
 <!--more-->
 
-Last week I was reading "Show your Work" by Austin Kleon, and in page 65 I stumbled upon a quote that seems simple enough, but with something really important to say to all of us who use the internet every day:
+La semana pasada estaba leyendo "Show your Work" de Austin Kleon, y en la página 65 encontré una cita muy simple, pero con algo importante qque decir a todos los que usamos internet de forma diaria
 
-> "Carving out a space fo yourself online, somewhere where you can express yourself and share your work, is still one of the best possible investments you can make with your time"  
+> "Crear un espacio para ti en línea, un sitio dónde puedas expresarte y compartir tu trabajo, es todavía una de las mejores inversiones que puedes hacer con tu tiempo."  
 > \- Andy Baio
 
-It is something deceptively simple, yet, when was the last time you could call something online "your own"? The answer is not really that enticing. With social media to choose from we have forgotten that notion. The internet has become a series of islands where everybody hangs, but nobody owns more than a name and the hope that the island stays afloat (anybody remember MySpace?).
+Es algo engañosamente simple, pero, ¿cuándo fue la última vez que pudiste decir que algo es "tuyo" en línea? La respuesta no es muy motivadora. Con redes sociales para elegir hemos olvidado esa noción. El internet se ha convertido en una serie de islas en las que todos están, pero nadie tiene nada más allá de un nombre y la esperanza que la isla permanezca a flote (¿Alguién recuerda MySpace?).
 
-That's when it hit me, I've been actively avoiding creating my own space hiding behind scope creep and impostor syndrome, but the reality is that any moment and any skill is good enough to share or to create your own space. 
+Ahí fue cuando me dí cuenta. He estado evitando activamente la tarea de crear mi espacio ocultandome detrás de "scope creep" y síndrome de impostor, pero la realidad es que cualquier momento y cualquier nivel de habilidad es suficiente para compartir y crear tu propio espacio
 
-> # If something is worth doing, then it's worth doing it poorly.
+> # Si algo vale la pena hacerse, vale la pena hacerlo de forma mediocre.
 
-As long as you keep going, learning and improving, it is worth doing.
+Mientras sigas adelante, aprendiendo y mejorando, vale la pena hacerlo.
