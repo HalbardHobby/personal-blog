@@ -55,7 +55,7 @@ Something people say about curry is that it is an extremely spicy and hot dish. 
 ### Stew:
 1. Sear chicken breast with a little oil, and put aside.
 2. On the same oil where the chicken breast was seared, fry onion and garlic until golden. Don't forget to season.
-3. Add carrrot, apple and chicken breast. Let it cook at medium heat for 2 minutes.
+3. Add carrot, apple, ginger and chicken breast. Let it cook at medium heat for 2 minutes.
 4. Add broth, laurel and honey. Let it boil.
 5. Once boiling, slowly add the roux, and let it cook until it thickens.
 6. Once thickened, add chocolate, coffee and yogurt. Mix and let it cook on medium heat for a couple minutes.

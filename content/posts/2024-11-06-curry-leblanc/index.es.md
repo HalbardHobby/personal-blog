@@ -40,7 +40,7 @@ Algo que dicen siempre del curry es que es un plato en extremo condimentado y pi
 ## Instrucciones
 ### Mise en Place:
 1. Rayar zanahoria, manzana y gengibre. Separar en un solo recipiente.
-2. Cortar finamente cebolla y ajo.
+2. Cortar cebolla y ajo en cubos.
 3. Cortar pollo en cubos y adobar al gusto.
 
 ![Mise en Place](images/mise-en-place.jpg)
@@ -55,7 +55,7 @@ Algo que dicen siempre del curry es que es un plato en extremo condimentado y pi
 ### Estofado:
 1. En un poco de aceite hirviendo, sellar el pollo y separar.
 2. Sobre el mismo aceite en el que se selló el pollo, freir cebolla y ajo hasta dorar. No olvidar sazonar al gusto.
-3. Añadir zanahoria, manzana y pollo. Dejar Cocinar a fuego medio por 2 minutos.
+3. Añadir zanahoria, manzana, gengibre y pollo. Dejar Cocinar a fuego medio por 2 minutos.
 4. Añadir caldo, laurel y miel, y dejar hervir.
 5. Una vez esté hirviendo, integrar lentamente el roux, y dejar cocinar hasta que espese.
 6. Una vez haya espesado, agregar chocolate, café y yogurt. Mezclar y dejar cocinar a fuego medio por unos minutos.
