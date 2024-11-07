@@ -10,7 +10,7 @@ Man sagt über Curry, dass es ein extrem würziges un scharfes Gericht ist. Und 
 
 <!--more-->
 
-## Zutaten
+## Zutaten für 6 Stücke
 
 ### Roux(Basis):
 - 125gr Butter

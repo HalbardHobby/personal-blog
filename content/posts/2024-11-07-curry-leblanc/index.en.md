@@ -10,7 +10,7 @@ Something people say about curry is that it is an extremely spicy and hot dish. 
 
 <!--more-->
 
-## Ingredients
+## Ingredients for 6 serving
 
 ### Roux(base):
 - 125gr butter
