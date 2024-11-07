@@ -5,11 +5,14 @@ date: 2024-11-06T20:49:12-05:00
 draft: false
 ---
 
+![Servido](images/serving.jpg)
+
 Hay 
 
 <!--more-->
 
 ## Ingredientes
+
 ### Roux(base):
 - 125gr mantequilla
 - 125gr harina de trigo
@@ -41,10 +44,14 @@ Hay
 2. Cortar finamente cebolla y ajo.
 3. Cortar pollo en cubos y adobar al gusto.
 
+![Mise en Place](images/mise-en-place.jpg)
+
 ### Roux:
 1. Tostar cilantro y mezclar con todas las especias del roux.
 2. Sobre el cilantro y las especias derretir la mantequilla y mezclar.
 3. Integrar lentamente la harina hasta tener una consistencia uniforme.
+
+![Roux](images/roux.jpg)
 
 ### Estofado:
 1. En un poco de aceite hirviendo, sellar el pollo y separar.
@@ -59,5 +66,14 @@ Hay
 - También se puede reemplazar el pollo por res u otra carne.
 
 ## Cómo Servir
+- Para servir se puede acompañar con arroz blanco o algún otro carbohidrato
+- Tecnicamente se usa una carne blanca, pero en lo personal prefiero acompañar con un vino tinto.
 
 ## Datos Nutricionales
+
+|               |                    |
+|---------------|--------------------|
+| Calorias      | +49 (0) 1234567890 |
+| Proteína      | +49 (0) 1234567890 |
+| Grasa         | +49 (0) 1234567890 |
+| Carbohidratos | +49 (0) 1234567890 |
