@@ -87,11 +87,8 @@ pygmentsCodefencesGuessSyntax = true
 
 [languages]
   [languages.en] 
-    contentDir = "content/en" # English
   [languages.es]
-    contentDir = "content/es" # Spanish
   [languages.de]
-    contentDir = "content/de" # German
 
 
 [[menu.main]]
