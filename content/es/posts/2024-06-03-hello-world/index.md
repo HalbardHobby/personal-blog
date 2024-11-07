@@ -1,8 +1,8 @@
-+++
-title = 'Hola Mundo'
-date = 2024-06-03T20:05:36-05:00
-draft = false
-+++
+---
+title: 'Hola, Mundo'
+date: 2024-06-03T20:05:36-05:00
+draft: false
+---
 
 Tener un sitio que pueda decirse que es propio es algo realmente valioso. Es cierto tanto en la vida real como en línea. Tendemos a olvidar eso, y con todas las alternativas que ofrecen las redes sociales, se vuelve algo que tendemos a ignorar por completo. Esa es *una* de las razones por las que he empezado este sitio. Un lugar que pueda decir que es propio. 
 
