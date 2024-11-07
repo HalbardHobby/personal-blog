@@ -6,76 +6,76 @@ draft: false
 
 ![Servido](images/serving.jpg)
 
-Algo que dicen siempre del curry es que es un plato en extremo condimentado y picante. Y pues es cierto que se usan bastantes especias, pero no tiene que ser picante. Este es el caso de este curry de estilo japones que aprovecha una cocción lenta y grasa adicional para combinar los sabores, y crear una textura que se puede acompañar con prácticamente cualquier carbohidrato o bebida
+Something people say about curry is that it is an extremely spicy and hot dish. And while it is true that there are a lot of spices involved, there is no need for it to be hot. That is the case for this japanese style curry that uses a slow cook and some additional fat to better combine flavours, and create a texture that can be accompanied with almost any carb and drink.
 
 <!--more-->
 
 ## Ingredientes
 
 ### Roux(base):
-- 125gr mantequilla
-- 125gr harina de trigo
-- 2cdtas cómino
-- 2cdas cilantro
-- 2cdtas cúrcuma
-- 1cdta paprika
-- 1cdta cayena
-- 1cdta nuez moscada
-- 1/2cdta pimienta negra
+- 125gr butter
+- 125gr wheat flour
+- 2tsp cumin
+- 2tbs cilantro
+- 2tsp turmeric
+- 1tsp paprika
+- 1tsp cayenne
+- 1tsp nutmeg
+- 1/2tsp black pepper
 
 ### Estofado:
-- 300gr zanahoria
-- 600gr cebolla
-- 300gr manzana
-- Ajo al gusto
-- Laurel al gusto
-- Gengibre al gusto
-- 600gr pechuga de pollo
-- 1l caldo de pollo
-- 50gr chocolate oscuro
-- 1cda café instantaneo
-- 1cda miel
-- 100gr yogurt griego
+- 300gr Carrot
+- 600gr white onion
+- 300gr apple
+- Garlic to taste
+- Laurel to taste
+- Ginger to taste
+- 600gr chicken breast
+- 1l chicken broth
+- 50gr dark chocolate
+- 1tbs instant coffee
+- 1tbs honey
+- 100gr greek yogurt
 
 ## Instrucciones
 ### Mise en Place:
-1. Rayar zanahoria, manzana y gengibre. Separar en un solo recipiente.
-2. Cortar finamente cebolla y ajo.
-3. Cortar pollo en cubos y adobar al gusto.
+1. Grate carrots, apple and ginger. Put aside in a bowl.
+2. Dice onion and garlic.
+3. Dice chicken breast, and season to taste.
 
 ![Mise en Place](images/mise-en-place.jpg)
 
 ### Roux:
-1. Tostar cilantro y mezclar con todas las especias del roux.
-2. Sobre el cilantro y las especias derretir la mantequilla y mezclar.
-3. Integrar lentamente la harina hasta tener una consistencia uniforme.
+1. Roast cilantro, and mix with the other roux spices.
+2. Melt the butter in the same pan, and mix with the spices.
+3. Slowly add the wheat flour and mix until you get a uniform texture.
 
 ![Roux](images/roux.jpg)
 
 ### Estofado:
-1. En un poco de aceite hirviendo, sellar el pollo y separar.
-2. Sobre el mismo aceite en el que se selló el pollo, freir cebolla y ajo hasta dorar. No olvidar sazonar al gusto.
-3. Añadir zanahoria, manzana y pollo. Dejar Cocinar por 2 minutos.
-4. Añadir caldo, laurel y miel, y dejar hervir.
-5. Una vez esté hirviendo, integrar lentamente el roux, y dejar cocinar.
-6. Una vez haya espesado, agregar chocolate, café y yogurt. Mezclar y dejar cocinar a fuego medio por unos minutos.
+1. Sear chicken breast with a little oil, and put aside.
+2. On the same oil where the chicken breast was seared, fry onion and garlic until golden. Don't forget to season.
+3. Add carrrot, apple and chicken breast. Let it cook at medium heat for 2 minutes.
+4. Add broth, laurel and honey. Let it boil.
+5. Once boiling, slowly add the roux, and let it cook until it thickens.
+6. Once thickened, add chocolate, coffee and yogurt. Mix and let it cook on medium heat for a couple minutes.
 
 ## Trucos y sugerencias
-- Se pueden reemplazar las especias del Roux por una mezcla para curry.
-- También se puede reemplazar el pollo por res u otra carne.
-- Al momento de recalentar el plato, se puede añadir un poco de vino tinto para enrriquecer los sabores.
+- You can replace the spices used in the roux with a curry mix.
+- You can also replace the chicken breast with beef or other meat.
+- when reheating, you can add a dash of red wine to enrichen the flavor.
 
-## Cómo Servir
-- Para servir se puede acompañar con arroz blanco o algún otro carbohidrato.
-- Tecnicamente se usa una carne blanca, pero en lo personal prefiero acompañar con un vino tinto.
+## How to serve
+- It can be served with white rice or another carb.
+- White meat is used to prepare this dish, but I personally prefer to accompany with red wine.
 
 ![Finished](images/hero-shot.jpg)
 
 
 ## Datos Nutricionales
 
-| Calorias      | 490Cal  |
+| Calories      | 490Cal  |
 |---------------|---------|
-| Proteína      | 28.63gr |
-| Grasa         | 22.92gr |
-| Carbohidratos | 41.40gr |
+| Protein       | 28.63gr |
+| Fat           | 22.92gr |
+| Carbohydrates | 41.40gr |
