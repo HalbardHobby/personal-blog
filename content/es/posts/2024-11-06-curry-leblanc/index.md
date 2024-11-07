@@ -1,13 +1,12 @@
 ---
 title: 'Curry leblanc'
-subtitle: Un buen plato para almorzar
-date: 2024-11-06T20:49:12-05:00
+date: 2024-11-07T13:16:06-05:00
 draft: false
 ---
 
 ![Servido](images/serving.jpg)
 
-Hay 
+Algo que dicen siempre del curry es que es un plato en extremo condimentado y picante. Y pues es cierto que se usan bastantes especias, pero no tiene que ser picante. Este es el caso de este curry de estilo japones que aprovecha una cocción lenta y grasa adicional para combinar los sabores, y crear una textura que se puede acompañar con prácticamente cualquier carbohidrato o bebida
 
 <!--more-->
 
@@ -64,16 +63,19 @@ Hay
 ## Trucos y sugerencias
 - Se pueden reemplazar las especias del Roux por una mezcla para curry.
 - También se puede reemplazar el pollo por res u otra carne.
+- Al momento de recalentar el plato, se puede añadir un poco de vino tinto para enrriquecer los sabores.
 
 ## Cómo Servir
-- Para servir se puede acompañar con arroz blanco o algún otro carbohidrato
+- Para servir se puede acompañar con arroz blanco o algún otro carbohidrato.
 - Tecnicamente se usa una carne blanca, pero en lo personal prefiero acompañar con un vino tinto.
+
+![Finished](images/hero-shot.jpg)
+
 
 ## Datos Nutricionales
 
-|               |                    |
-|---------------|--------------------|
-| Calorias      | +49 (0) 1234567890 |
-| Proteína      | +49 (0) 1234567890 |
-| Grasa         | +49 (0) 1234567890 |
-| Carbohidratos | +49 (0) 1234567890 |
+| Calorias      | 490Cal  |
+|---------------|---------|
+| Proteína      | 28.63gr |
+| Grasa         | 22.92gr |
+| Carbohidratos | 41.40gr |
