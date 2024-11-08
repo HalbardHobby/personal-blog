@@ -15,13 +15,17 @@ Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is ad
 - Endulzante al gusto (la stevia me gusta)
 
 ## Instrucciones
+1. En un recipiente batir huevos con leche y el endulzante hasta obtener una consistencia uniforme.
+2. Vertir en un molde, y hornear a 150°C por 45 minutos.
+3. Dejar enfriar en la nevera.
 
 ## Trucos y sugerencias
+- Se puede añadir vainilla, chocolate u otros saborizantes.
 
 ## Datos Nutricionales
 
-| Calorias      | 490Cal  |
+| Calorias      | 270Cal  |
 |---------------|---------|
-| Proteína      | 28.63gr |
-| Grasa         | 22.92gr |
-| Carbohidratos | 41.40gr |
+| Proteína      | 20.48gr |
+| Grasa         | 14.27gr |
+| Carbohidratos | 13.60gr |

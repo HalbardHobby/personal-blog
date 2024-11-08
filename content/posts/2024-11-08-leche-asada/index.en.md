@@ -12,16 +12,20 @@ Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is ad
 ## Ingredients for 2 Servings
 - 4 Eggs
 - 500ml milk
-- sweetener to taste (I like stevia)
+- Sweetener to taste (I like stevia)
 
 ## Instructions
+1. Beat milk, eggs and sweetener in a bowl until you get a homogeneus consistency.
+2. Pour into a mold, and bake at 150°C for 45 minutes.
+3. Let it cool in the fridge.
 
 ## Tips and tricks
+- You can add vanilla, chocolate or other flavors.
 
 ## Nutrition Facts
 
-| Calories      | 490Cal  |
+| Calories      | 270Cal  |
 |---------------|---------|
-| Protein       | 28.63gr |
-| Fat           | 22.92gr |
-| Carbohydrates | 41.40gr |
+| Protein       | 20.48gr |
+| Fat           | 14.27gr |
+| Carbohydrates | 13.60gr |

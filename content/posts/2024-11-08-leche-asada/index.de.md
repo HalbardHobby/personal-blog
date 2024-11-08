@@ -15,13 +15,17 @@ Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is ad
 - Süßstoff nach Geschmack (Stevia gefallt mir)
 
 ## Anleitung
+1. Milch, Eier und Süßstoff in einer Schüssel verrühren, bis eine gleichmäßige Konsistenz entsteht.
+2. In eine Form gießen, und 45 Minuten bei 150°C backen.
+3. Im Kühlschrank abkühlen lassen.
 
 ## Tipps und Tricks
+- Man kann Vanille, Schokolade oder andere Aromen hinzufügen. 
 
 ## Nährwerte
 
-| Kalorien      | 490Cal  |
+| Kalorien      | 270Cal  |
 |---------------|---------|
-| Eiweiß        | 28.63gr |
-| Fett          | 22.92gr |
-| Kohlenhydrate | 41.40gr |
+| Eiweiß        | 20.48gr |
+| Fett          | 14.27gr |
+| Kohlenhydrate | 13.60gr |
