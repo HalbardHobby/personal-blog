@@ -1,11 +1,11 @@
 ---
 title: 'Leche Asada'
 subtitle: El postre más sencillo que hay
-date: 2024-11-07T17:02:06-05:00
+date: 2024-11-08T16:21:50-05:00
 draft: false
 ---
 
-Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit. 
+La verdad, una dificultad que tengo en la vida es el hecho que sabiendo cocinar, me gusta mucho el dulce. Este pequeño detalle me ha llevado a comilonas memorables, y de cierta forma con poco pesar ya que gran parte  de la comida la he cocinado con ingredientes que ya están en la cocina. Afortunadamente hay un postre increiblemente sencillo (familiar del pudín y el creme brulee) que satisface esa necesidad de algo dulce, y de paso al ser alto en proteína también evita un antojo adicional.
 
 <!--more-->
 

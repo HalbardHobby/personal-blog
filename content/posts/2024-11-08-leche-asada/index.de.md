@@ -1,11 +1,11 @@
 ---
 title: 'Leche Asada'
 subtitle: Der einfachste Nachtisch das es gibt
-date: 2024-11-07T17:02:06-05:00
+date: 2024-11-08T16:21:50-05:00
 draft: false
 ---
 
-Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit. 
+Um ehrlich zu sein, eine Herausforderung für mich im Leben darin, dass ich zwar kochen kann, und eine echte Naschkatze bin. Dieses kleine Detail hat mir unvergessliche Feste beschert, und in gewisser Weise ohne Bedauern, da ich viele der Gerichte mit Zutaten zubereitet habe, die ich bereits in der Küche hatte. Glücklicherweise gibt es ein unglaublich einfaches Dessert (ähnlich wie Pudding und Crème Brûlée), das den Wunsch nach etwas Süßem stillen kann. Es hat außerdem den zusätzlichen Vorteil, dass es einen hohen Eiweißgehalt hat und somit weitere Wunsch vermeidet.
 
 <!--more-->
 
