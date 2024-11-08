@@ -9,8 +9,19 @@ Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is ad
 
 <!--more-->
 
-## Ingredientes para 2 Porciones
+## Ingredients for 2 Servings
+- 4 Eggs
+- 500ml milk
+- sweetener to taste (I like stevia)
 
-## Instrucciones
+## Instructions
 
-## Trucos y sugerencias
+## Tips and tricks
+
+## Nutrition Facts
+
+| Calories      | 490Cal  |
+|---------------|---------|
+| Protein       | 28.63gr |
+| Fat           | 22.92gr |
+| Carbohydrates | 41.40gr |

@@ -1,6 +1,6 @@
 ---
 title: 'Leche Asada'
-subtitle: Der einfachste Nachtisch das es gibt.
+subtitle: Der einfachste Nachtisch das es gibt
 date: 2024-11-07T17:02:06-05:00
 draft: false
 ---
@@ -9,8 +9,19 @@ Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is ad
 
 <!--more-->
 
-## Ingredientes para 2 Porrciones
+## Zutaten für 2 Stücke
+- 4 Eier
+- 500ml Milch
+- Süßstoff nach Geschmack (Stevia gefallt mir)
 
-## Instrucciones
+## Anleitung
 
-## Trucos y sugerencias
+## Tipps und Tricks
+
+## Nährwerte
+
+| Kalorien      | 490Cal  |
+|---------------|---------|
+| Eiweiß        | 28.63gr |
+| Fett          | 22.92gr |
+| Kohlenhydrate | 41.40gr |

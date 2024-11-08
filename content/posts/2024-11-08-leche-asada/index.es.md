@@ -9,8 +9,19 @@ Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is ad
 
 <!--more-->
 
-## Ingredientes para 2 Porrciones
+## Ingredientes para 2 Porciones
+- 4 huevos
+- 500ml leche
+- Endulzante al gusto (la stevia me gusta)
 
 ## Instrucciones
 
 ## Trucos y sugerencias
+
+## Datos Nutricionales
+
+| Calorias      | 490Cal  |
+|---------------|---------|
+| Proteína      | 28.63gr |
+| Grasa         | 22.92gr |
+| Carbohidratos | 41.40gr |
