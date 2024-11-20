@@ -1,6 +1,6 @@
 ---
-title: 'Leche Asada'
-subtitle: El postre más sencillo que hay
+title: 'Waffles de Proteína'
+subtitle: 
 date: 2024-11-08T16:21:50-05:00
 draft: false
 ---
@@ -24,10 +24,12 @@ Intro ...
 1. Precalentar plancha para waffles.
 2. Batir crema de leche, leche, huevos, miel y aceite en un recipiente.
 3. Agregar lentamente proteina, harina, sal y polvo para hornear, y batir hasta obtener una mezcla uniforme.
-4. Colocar en la plancha para waffles entre 5 y 10 minutos
+4. Colocar en la plancha para waffles entre 5 y 7 minutos.
 
 ## Trucos y sugerencias
-- Se puede añadir vainilla, chocolate u otros saborizantes.
+- La plancha debe estar muy caliente para evitar que se peguen los waffles.
+- Se pueden mantener tibios los waffles usando un horno electrico o un tostador.
+- En caso de no tener una plancha para waffles, se pueden preparar como pancakes.
 
 ## Datos Nutricionales
 
