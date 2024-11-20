@@ -33,8 +33,8 @@ Intro ...
 
 ## Nährwerte
 
-| Kalorien      | 270Cal  |
+| Kalorien      | 733Cal  |
 |---------------|---------|
-| Eiweiß        | 20.48gr |
-| Fett          | 14.27gr |
-| Kohlenhydrate | 13.60gr |
+| Eiweiß        | 40.59gr |
+| Fett          | 36.87gr |
+| Kohlenhydrate | 59.62gr |

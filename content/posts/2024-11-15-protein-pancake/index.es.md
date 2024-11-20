@@ -33,8 +33,8 @@ Intro ...
 
 ## Datos Nutricionales
 
-| Calorias      | 270Cal  |
+| Calorias      | 733Cal  |
 |---------------|---------|
-| Proteína      | 20.48gr |
-| Grasa         | 14.27gr |
-| Carbohidratos | 13.60gr |
+| Proteína      | 40.59gr |
+| Grasa         | 36.87gr |
+| Carbohidratos | 59.62gr |

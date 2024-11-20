@@ -1,5 +1,5 @@
 ---
-title: 'Protein Waffle'
+title: 'Protein Waffles'
 subtitle: 
 date: 2024-11-08T16:21:50-05:00
 draft: false
@@ -33,8 +33,8 @@ Intro ...
 
 ## Nutrition Facts
 
-| Calories      | 270Cal  |
+| Calories      | 733Cal  |
 |---------------|---------|
-| Protein       | 20.48gr |
-| Fat           | 14.27gr |
-| Carbohydrates | 13.60gr |
+| Protein       | 40.59gr |
+| Fat           | 36.87gr |
+| Carbohydrates | 59.62gr |
