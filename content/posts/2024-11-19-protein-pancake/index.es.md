@@ -1,11 +1,13 @@
 ---
 title: 'Waffles de Proteína'
 subtitle: 
-date: 2024-11-08T16:21:50-05:00
+date: 2024-11-19T22:33:14-05:00
 draft: false
 ---
 
-Intro ...
+![Servido](images/serving.jpg)
+
+La verdad ya he compartido una receta para almorzar y otra para un snack. Me parecía justo completar con algo para desayunar. Estuve pensando en varias opciones, unas más complejas que otras. Al final dicidí algo relativamente sencillo de hacer y versatil porque puede estar acompañado por practicamente cualquier cosa que se puedan imaginar. No solo eso, sino que siguiendo con el "tema" de platos altos en proteína este no se queda atrás.
 
 <!--more-->
 

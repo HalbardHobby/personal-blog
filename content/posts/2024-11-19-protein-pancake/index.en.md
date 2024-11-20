@@ -1,11 +1,13 @@
 ---
 title: 'Protein Waffles'
 subtitle: 
-date: 2024-11-08T16:21:50-05:00
+date: 2024-11-19T22:33:14-05:00
 draft: false
 ---
 
-Intro ...
+![Served](images/serving.jpg)
+
+I've already shared a recipe for lunch and another for a snack. It seemed fair to round it off with something for breakfast. I was thinking of several options, some more complex than others. In the end I decided on something relatively simple to make and versatile because it can be accompanied by practically anything you can imagine. Not only that, but continuing with the "theme" of high protein dishes, this one doesn't get left behind.
 
 <!--more-->
 

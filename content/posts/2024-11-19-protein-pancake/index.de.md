@@ -1,11 +1,13 @@
 ---
 title: 'Eiweiß Waffeln'
 subtitle: 
-date: 2024-11-08T16:21:50-05:00
+date: 2024-11-19T22:33:14-05:00
 draft: false
 ---
 
-Intro ...
+![Serviert](images/serving.jpg)
+
+Ich habe bereits ein Rezept für das Mittagessen und ein weiteres für einen Snack geteilt. Es schien angemessen, es mit etwas zum Frühstück abzurunden. Ich habe über mehrere Optionen nachgedacht, einige komplexer als andere. Am Ende habe ich mich für etwas entschieden, das relativ einfach zuzubereiten und vielseitig ist, da man es mit praktisch allem kombinieren kann, was man sich vorstellen kann. Und nicht nur das, sondern um beim „Thema“ der proteinreichen Gerichte zu bleiben, bleibt dieses Gericht nicht zurück.
 
 <!--more-->
 
